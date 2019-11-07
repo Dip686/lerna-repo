@@ -1,0 +1,33 @@
+{
+  "name": "package2",
+  "version": "1.0.0",
+  "description": "package2 desc",
+  "author": "dipFusionCharts <dip@fusioncharts.com>",
+  "homepage": "https://github.com/Dip686/lerna-repo#readme",
+  "license": "ISC",
+  "main": "dist/main.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dip686/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Dip686/lerna-repo/issues"
+  },
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
