@@ -1,3 +1,3 @@
 export function callFun () {
-  console.log('called');
+  console.log('from package 1 called');
 }
