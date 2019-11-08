@@ -1,6 +1,6 @@
 {
   "name": "package2",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "package2 desc",
   "author": "dipFusionCharts <dip@fusioncharts.com>",
   "homepage": "https://github.com/Dip686/lerna-repo#readme",
@@ -31,6 +31,6 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "package1": "1.0.6"
+    "package1": "^2.0.0"
   }
 }
