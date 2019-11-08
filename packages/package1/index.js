@@ -1,3 +1,3 @@
 export function callFun () {
-  console.log('v1.0.6');
+  console.log('v2.0.0');
 }
