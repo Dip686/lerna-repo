@@ -1,3 +1,3 @@
 export function callFun () {
-  console.log('from package 1 logged');
+  console.log('v1.0.5');
 }
