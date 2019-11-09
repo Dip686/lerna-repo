@@ -31,6 +31,6 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "package1": "^2.0.0"
+    "package1": "2.0.0"
   }
 }
